@@ -40,9 +40,9 @@ Your plugin level workspace is ```c:/salesforce/workspace1```, your project leve
 
         "sandbox-exercise": {
             "default": true,
-            "login_url": "https://login.salesforce.com",
+            "login_url": "https://test.salesforce.com",
             "password": "******",
-            "username": "mouse@exercise.com"
+            "username": "mouse@exercise.com.qa"
         }
     }
 }
